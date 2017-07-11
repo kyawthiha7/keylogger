@@ -1,2 +1,2 @@
 # keylogger
-- keylogger of Linux and Windows
+- keylogger for Linux and Windows
